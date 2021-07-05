@@ -3,13 +3,12 @@ package com.bebe.spring;
 //0705 주석은혜입니다.
 //0705주석 후건입니다.
 //0705주석 정현입니다.
-<<<<<<< HEAD
 
 //CommitTest은혜
 
-=======
+
 //주석 용욱
->>>>>>> branch 'develop' of https://github.com/hoogun/bebeshop.git
+
 import java.text.DateFormat;
 import java.util.Date;
 import java.util.Locale;
