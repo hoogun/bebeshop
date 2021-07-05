@@ -1,4 +1,4 @@
-<!-- <?xml version='1.0' encoding='utf-8'  ?>
+<?xml version='1.0' encoding='utf-8'  ?>
 <!DOCTYPE configuration PUBLIC './/mybatis.org//DTD config 3.0//EN'
 		'http://mybatis.org/dt/mybatis-3-config.dtd'>
 <configuration>		
@@ -6,7 +6,7 @@
 				<property name='driver'  value='oracle.jdbc.driver.OracleDriver'/>
 		</properties> 
 		
-		 <properties resource='config/hr.properties'/> 
+		 <!-- <properties resource='config/hr.properties'/>  -->
 			
 		
 		<settings>
@@ -46,4 +46,4 @@
 
 
 		</mappers>
-</configuration> -->
+</configuration>
