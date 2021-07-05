@@ -4,7 +4,6 @@ package com.bebe.spring;
 //0705주석 후건입니다.
 //0705주석 정현입니다.
 
-///HEAD 테스트입니다 
 import java.text.DateFormat;
 import java.util.Date;
 import java.util.Locale;
@@ -15,6 +14,7 @@ import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
+
 /**
  * Handles requests for the application home page.
  */
