@@ -3,7 +3,7 @@ package com.bebe.spring;
 //0705 주석은혜입니다.
 //0705주석 후건입니다.
 //0705주석 정현입니다.
-
+//주석 용욱
 import java.text.DateFormat;
 import java.util.Date;
 import java.util.Locale;
@@ -16,7 +16,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 //주석후건
 //ㅣㅣㅣ
-//주석용욱
+
 /**
  * Handles requests for the application home page.
  */
